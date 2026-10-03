@@ -1,0 +1,22 @@
+# Runtime/generated data
+bits_r2_final/
+data/raw/
+data/processed/
+data/verified/
+*.json
+*.txt
+*.log
+
+# Local Python/Colab artifacts
+__pycache__/
+.ipynb_checkpoints/
+.env
+
+# Large source archives / PDFs
+*.zip
+*.pdf
+
+# OS/editor junk
+.DS_Store
+Thumbs.db
+.vscode/
